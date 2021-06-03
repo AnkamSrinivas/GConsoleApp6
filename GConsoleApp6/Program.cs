@@ -8,6 +8,7 @@ namespace GConsoleApp6
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("hi");
+            Console.WriteLine( "hee");
         }
     }
 }
